@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oX+4Wc4FTYNtaZjLPdSzfh99uJzNqYrSQK+IJ8mDt6fu9KtceXxGkYJY5I/nZJhSeutmctgvuEw0TWtFl8HqQQ==",
+  "success": true,
+  "projectFilePath": "D:\\Project SourceCode 2024\\ChatGPT_Copilot\\ChatGPT_Copilot\\ChatGPT_Copilot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A2Z IT-Solutions\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
